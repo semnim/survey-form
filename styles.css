@@ -178,6 +178,13 @@ button {
     border: none;
 }
 
+.input-check,
+.input-radio,
+select,
+button {
+    cursor: pointer;
+}
+
 .clue {
     margin-left: 0.25rem;
     font-size: 0.9rem;
